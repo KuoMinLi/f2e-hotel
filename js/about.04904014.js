@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkf2e_hotel"]=self["webpackChunkf2e_hotel"]||[]).push([[443],{7381:function(e,n,t){t.r(n),t.d(n,{default:function(){return l}});var u=t(3396);const a={class:"about"},r=(0,u._)("h1",null,"This is an about page",-1),s=[r];function c(e,n){return(0,u.wg)(),(0,u.iD)("div",a,s)}var o=t(89);const f={},i=(0,o.Z)(f,[["render",c]]);var l=i}}]);
+//# sourceMappingURL=about.04904014.js.map
